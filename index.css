@@ -58,3 +58,12 @@
   color: white;
 }
 
+#footer a {
+  color: white;
+}
+
+.ulColumna3 {
+  text-align: left;
+  text-decoration: none;
+  list-style: none;
+}
